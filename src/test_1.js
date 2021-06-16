@@ -1,3 +1,3 @@
 export default {
-  name:'adui'
+  name:'test_1'
 }
